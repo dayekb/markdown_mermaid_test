@@ -38,7 +38,7 @@ gantt
     Qwen (Alibaba) : 2023, 2y
     YandexGPT : 2023, 2y
     GigaChat (Sber) : 2023, 2y
-    GPT-5 (ожидается) : 2025, 1y
+    GPT-5 : 2025, 1y
 
     section Вычислительные мощности
     CPU (эпоха классических вычислений) : 1943, 50y
