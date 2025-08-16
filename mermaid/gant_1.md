@@ -55,11 +55,11 @@ gantt
     NVIDIA Blackwell (B100) : 2024, 1y
 
     section Революционные вехи
-    milestone Персептрон : done, 1958, 1m
-    milestone Обратное распространение : done, 1986, 1m
-    milestone CUDA : done, 2006, 1m
-    milestone AlexNet / Deep Learning : done, 2012, 1m
-    milestone Трансформер : done, 2017, 1m
-    milestone GPT-3 / Масштабные LLM : done, 2020, 1m
+    milestone Персептрон : done, 1958, 1d
+    milestone Обратное распространение : done, 1986, 1d
+    milestone CUDA : done, 2006, 1d
+    milestone AlexNet / Deep Learning : done, 2012, 1d
+    milestone Трансформер : done, 2017, 1d
+    milestone GPT-3 / Масштабные LLM : done, 2020, 1d
 
 ```
