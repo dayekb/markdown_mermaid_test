@@ -35,7 +35,11 @@ gantt
     XGBoost (Chen & Guestrin)                         : 2014, 1y
     LightGBM (Microsoft)                              : 2016, 1y
     CatBoost (Яндекс)                                 : 2017, 1y
+```
 
+```mermaid
+
+gantt
     section Нейронные сети (для табличных данных)
     Нейрон Мак-Каллока – Питтса                       : 1943, 1y
     Перцептрон (Розенблатт)                          : 1958, 1y
