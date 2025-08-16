@@ -320,3 +320,4 @@ stateDiagram-v2
 ## Источник
 
 Мой любимый [Qwen](https://chat.qwen.ai/s/a40a6de9-7c34-4e03-b84e-7d6da1b1353f?fev=0.0.184)
+
