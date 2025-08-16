@@ -15,41 +15,41 @@ gantt
     LAION, COCO, Books : 2020, 5y
 
     section Архитектуры
-    Нейрон Мак-Каллока–Питтса (Мак-Каллок, Питтс) : 1943, 1y
+    ## Классические сети
+    Нейрон Мак-Каллока–Питтса (1943) : 1943, 1y
+    Персептрон (Розенблатт, 1958) : 1958, 1y
+    Обратное распространение (Rumelhart et al., 1986) : 1986, 1y
 
-    LeNet-5 (Ян ЛеКун и др.) : 1989, 1y
-    Трансформер (Васвани и др.) : 2017, 1y
-    GPT-3 (Brown et al., OpenAI) : 2020, 1y
-    GPT-4 (OpenAI) : 2023, 1y
-    GPT-5 (ожидается, OpenAI) : 2025, 1y
+    ## Свёрточные сети (CNN)
+    LeNet-5 (ЛеКун, 1989) : 1989, 1y
+    AlexNet (Крижевский, 2012) : 2012, 1y
+    VGG (Simonyan & Zisserman, 2014) : 2014, 1y
+    Inception (Szegedy et al., 2014) : 2014, 1y
+    ResNet (Хэ Каймин, 2015) : 2015, 1y
 
+    ## Рекуррентные сети (RNN)
+    Ванильная RNN (Elman, 1990) : 1990, 2y
+    LSTM (Хюбшер, Шмидхубер, 1997) : 1997, 1y
+    GRU (Чо и др., 2014) : 2014, 1y
 
-    Персептрон (Фрэнк Розенблатт) : 1958, 1y
-    Ванильная RNN (Rumelhart et al., Elman) : 1990, 2y
-    LSTM (Хюбшер, Шмидхубер) : 1997, 1y
-    GRU (Киунгхва Чо и др.) : 2014, 1y
-    ViT (Досовицкий и др., Google) : 2020, 1y
-    CLIP (Radford et al., OpenAI) : 2021, 1y
+    ## Генеративные модели
+    GAN (Гудфеллоу, 2014) : 2014, 1y
+    ViT (Досовицкий, 2020) : 2020, 1y
+    CLIP (Radford, OpenAI, 2021) : 2021, 1y
 
+    ## Трансформеры и LLM (Запад)
+    Трансформер (Васвани и др., 2017) : 2017, 1y
+    BERT (Google, 2018) : 2018, 1y
+    GPT-3 (Brown et al., OpenAI, 2020) : 2020, 1y
+    GPT-4 (OpenAI, 2023) : 2023, 1y
+    GPT-5 (ожидается, 2025) : 2025, 1y
 
-    Deepseek (Deepseek AI) : 2023, 2y
-    Qwen (Тоньи Юн, Alibaba) : 2023, 2y
-
-    Обратное распространение (Румельхарт, Хинтон, Уильямс) : 1986, 1y
-    BERT (Devlin et al., Google) : 2018, 1y
-    GAN (Иан Гудфеллоу и др.) : 2014, 1y
-
-    AlexNet (Крижевский, Суцкевер, Хинтон) : 2012, 1y
-    VGG (Simonyan, Zisserman) : 2014, 1y
-    Inception / GoogLeNet (Szegedy et al., Google) : 2014, 1y
-    ResNet (Хэ Каймин и др., Microsoft) : 2015, 1y
-
-
-    Mistral (Mistral AI, французская команда бывших DeepMind) : 2023, 1y
-
-    YandexGPT (Яндекс, Россия) : 2023, 2y
-    GigaChat (Sber, SberDevices) : 2023, 2y
-
+    ## Азиатские и российские LLM
+    Mistral (Mistral AI, 2023) : 2023, 1y
+    Deepseek (Deepseek AI, 2023) : 2023, 2y
+    Qwen (Alibaba, 2023) : 2023, 2y
+    YandexGPT (Яндекс, 2023) : 2023, 2y
+    GigaChat (Sber, 2023) : 2023, 2y
 
     section Вычислительные мощности
     CPU (эпоха классических вычислений) : 1943, 50y
