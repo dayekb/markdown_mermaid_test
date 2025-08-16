@@ -51,12 +51,12 @@
 
 ### Как выглядит:
 [Перейти на GitHub](https://github.com)  
-![Логотип](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+![Логотип](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
 ### Как записать:
 ```markdown
 [Перейти на GitHub](https://github.com)  
-![Логотип](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+![Логотип](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 ```
 
 ---
@@ -251,7 +251,7 @@ print("Hello, Markdown!")
 
 ```python
 print("Hello, Markdown!")
-```
+
 
 [Документация](docs/README.md)
 ```
