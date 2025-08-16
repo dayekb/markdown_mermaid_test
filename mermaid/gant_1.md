@@ -56,7 +56,7 @@ gantt
 
     section Революционные вехи
     milestone Персептрон : done, 1958, 1y
-    milestone Обратное распространение : done, 1986, 1dy
+    milestone Обратное распространение : done, 1986, 1y
     milestone CUDA : done, 2006, 1y
     milestone AlexNet / Deep Learning : done, 2012, 1y
     milestone Трансформер : done, 2017, 1y
