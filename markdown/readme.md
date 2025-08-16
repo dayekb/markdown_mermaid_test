@@ -42,7 +42,7 @@
 ```
 
 ```markdown
- `python`
+```python
 function hello() {
   console.log("Привет, мир!");
 }
