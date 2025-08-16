@@ -32,7 +32,7 @@ gantt
     CLIP (OpenAI) : 2021, 1y
     GPT-3 : 2020, 1y
     GPT-4 : 2023, 1y
-    GPT-5 (ожидается) : 2025, 1y
+    GPT-5 : 2025, 1y
 
     section Вычислительные мощности
     CPU (эпоха классических вычислений) : 1943, 50y
@@ -49,11 +49,11 @@ gantt
     NVIDIA Blackwell (B100) : 2024, 1y
 
     section Революционные вехи
-    milestone Персептрон : done, 1958, 1d
-    milestone Обратное распространение : done, 1986, 1d
-    milestone CUDA : done, 2006, 1d
-    milestone AlexNet / Deep Learning : done, 2012, 1d
-    milestone Трансформер : done, 2017, 1d
-    milestone GPT-3 / Масштабные LLM : done, 2020, 1d
+    milestone Персептрон : 1958, 1y
+    milestone Обратное распространение : 1986, 1y
+    milestone CUDA : 2006, 1y
+    milestone AlexNet / Deep Learning :  2012, 1y
+    milestone Трансформер : 2017, 1y
+    milestone GPT-3 / Масштабные LLM : 2020, 1y
 
 ```
