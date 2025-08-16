@@ -43,11 +43,11 @@ gantt
     LSTM (Хюбшер, Шмидхубер, 1997) : 1997, 1y
     GRU (Чо и др., 2014) : 2014, 1y
 
-    Mistral (Mistral AI, 2023) : 2023, 1y
-    Deepseek (Deepseek AI, 2023) : 2023, 2y
-    Qwen (Alibaba, 2023) : 2023, 2y
-    YandexGPT (Яндекс, 2023) : 2023, 2y
-    GigaChat (Sber, 2023) : 2023, 2y
+    Mistral (Mistral AI, 2023) : 2023, 3y
+    Deepseek (Deepseek AI, 2023) : 2023, 3y
+    Qwen (Alibaba, 2023) : 2023, 3y
+    YandexGPT (Яндекс, 2023) : 2023, 3y
+    GigaChat (Sber, 2023) : 2023, 3y
 
     section Вычислительные мощности
     CPU (эпоха классических вычислений) : 1943, 50y
