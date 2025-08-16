@@ -162,7 +162,7 @@ ___
 ```python
 print("Hello, Markdown!")
 ```
-
+```markdown
 [Документация](docs/README.md) | ![Логотип](img/logo.png)
 ```
 
