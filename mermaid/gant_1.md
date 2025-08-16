@@ -1,6 +1,6 @@
 ```mermaid 
 
-gantt
+
 gantt
     title История нейронных сетей: ключевые вехи и революции (1943–2025)
     dateFormat  YYYY
