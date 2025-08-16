@@ -81,7 +81,7 @@ function hello() {
   console.log("Привет, мир!");
 }
 ```
-<pre>
+</pre>
 
 > 💡 Подставьте нужный язык: `js`, `python`, `html`, `bash`, `json` и т.д.
 
@@ -254,7 +254,7 @@ print("Hello, Markdown!")
 ```
 
 [Документация](docs/README.md)
-<pre>
+</pre>
 
 ---
 
