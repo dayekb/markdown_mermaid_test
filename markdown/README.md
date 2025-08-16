@@ -238,7 +238,7 @@ function hello() {
 print("Hello, Markdown!")
 ```
 
-[Документация](docs/README.md)
+[Документация](README.md)
 
 ### Как записать:
 <pre>
@@ -253,7 +253,7 @@ print("Hello, Markdown!")
 print("Hello, Markdown!")
 ```
 
-[Документация](docs/README.md)
+[Документация](README.md)
 </pre>
 
 ---
