@@ -80,7 +80,7 @@ function hello() {
 function hello() {
   console.log("Привет, мир!");
 }
-/```
+```
 ```
 
 > 💡 Подставьте нужный язык: `js`, `python`, `html`, `bash`, `json` и т.д.
