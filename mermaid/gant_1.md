@@ -1,6 +1,7 @@
 ```mermaid 
 
 gantt
+gantt
     title История нейронных сетей: ключевые вехи и революции (1943–2025)
     dateFormat  YYYY
     axisFormat %Y
@@ -32,7 +33,12 @@ gantt
     CLIP (OpenAI) : 2021, 1y
     GPT-3 : 2020, 1y
     GPT-4 : 2023, 1y
-    GPT-5 : 2025, 1y
+    Mistral (Mistral AI) : 2023, 1y
+    Deepseek : 2023, 2y
+    Qwen (Alibaba) : 2023, 2y
+    YandexGPT : 2023, 2y
+    GigaChat (Sber) : 2023, 2y
+    GPT-5 (ожидается) : 2025, 1y
 
     section Вычислительные мощности
     CPU (эпоха классических вычислений) : 1943, 50y
@@ -49,11 +55,11 @@ gantt
     NVIDIA Blackwell (B100) : 2024, 1y
 
     section Революционные вехи
-    milestone Персептрон : 1958, 1y
-    milestone Обратное распространение : 1986, 1y
-    milestone CUDA : 2006, 1y
-    milestone AlexNet / Deep Learning :  2012, 1y
-    milestone Трансформер : 2017, 1y
-    milestone GPT-3 / Масштабные LLM : 2020, 1y
+    milestone Персептрон : done, 1958, 1m
+    milestone Обратное распространение : done, 1986, 1m
+    milestone CUDA : done, 2006, 1m
+    milestone AlexNet / Deep Learning : done, 2012, 1m
+    milestone Трансформер : done, 2017, 1m
+    milestone GPT-3 / Масштабные LLM : done, 2020, 1m
 
 ```
