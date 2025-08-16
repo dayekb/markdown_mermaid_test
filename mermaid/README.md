@@ -12,6 +12,29 @@
 ---
 
 ### 1. **Timeline (Жизненная лента) — Эволюция нейросетей**
+<pre>
+```mermaid
+timeline
+    title Эволюция нейронных сетей
+    section 1940-е
+        1943 : Перцептрон (Маккалок и Питтс)
+        1958 : Перцептрон Розенблатта
+    section 1980-е
+        1986 : Обратное распространение ошибки (Rumelhart et al.)
+        1989 : Первые свёрточные сети (LeCun)
+    section 1990-е
+        1997 : LSTM (Хёхрайтер и Шмидхубер)
+    section 2010-е
+        2012 : AlexNet побеждает в ImageNet
+        2014 : GAN (Иан Гудфеллоу)
+        2015 : ResNet
+    section 2020-е
+        2017 : Transformer (Vaswani et al.)
+        2020 : GPT-3 (175 млрд параметров)
+        2023 : GPT-4, Llama, Claude
+```
+</pre>
+
 ```mermaid
 timeline
     title Эволюция нейронных сетей
